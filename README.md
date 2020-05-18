@@ -9,4 +9,4 @@ favicon.ico
       4. Windows explorer opens to the appropriate folder.  Locate the shortcut to Jupyter Notebook.  Right-click the shortcut.
       5. The shortcut properties window opens.  Click on Change Icon...  A warning message is displayed indicating the icon file cannot be found.  Click OK.
       6.  In the textbox labelled "Look for icons in this file:", type "C:\Users\All Users\Anaconda3\Menu\favicon.ico"
-      7.  Problem solved!  Click OK repeatedly to back out and resume whatever it is you were doing before.
+      7.  Problem solved!  Click OK repeatedly to back out and resume whatever it was you were doing before.
