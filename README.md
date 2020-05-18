@@ -1,7 +1,7 @@
 # JupyterNotebookSupport
 
 favicon.ico 
-- Some Windows users (including me) run into a problem in which the Jupyter icon seemingly dissapears or goes blank.  This is the icon file.  
+- Some Windows users (including me) run into a problem in which the Jupyter icon seemingly dissapears or goes blank.  favicon.ico is the icon file.  
   - Windows 10 instructions: 
       1. Copy it to C:\Users\All Users\Anaconda3\Menu.
       2. Right-click the Jupyter Notebook icon in the start menu.
